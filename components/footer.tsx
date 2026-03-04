@@ -66,7 +66,7 @@ export function Footer() {
 
         <div className="mt-8 border-t border-border pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            {new Date().getFullYear()} ENIGMA Lenceria. Todos los derechos reservados.
+            {new Date().getFullYear()} ENIGMA Lenceria. Todos los derechos reservados, Diseñado por <a href="https://www.linkedin.com/in/jonacardozo/" target="_blank" rel="noopener noreferrer" className="text-primary">Jonatan Cardozo</a>
           </p>
         </div>
       </div>
